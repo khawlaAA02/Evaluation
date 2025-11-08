@@ -1,6 +1,17 @@
 Ce projet consiste en une application de gestion de stock réalisée en Java avec Hibernate, selon une architecture en couches faiblement couplées.
 
-Structure du projet>
+
+
+
+
+
+
+
+
+
+
+Structure du projet :
+
 <img width="562" height="945" alt="image" src="https://github.com/user-attachments/assets/d639d562-2f9e-40a4-bd84-70f4ac9695c4" />
 
 
